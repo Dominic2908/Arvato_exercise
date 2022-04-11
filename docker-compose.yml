@@ -1,0 +1,10 @@
+version: '3.1'
+services:
+  web:
+    build: .
+    volumes:
+      - ../Arvato_exercise/:/var/www/html
+    environment:
+      APP_ENV: "${APP_ENV}"
+    ports:
+      - "8080:80"

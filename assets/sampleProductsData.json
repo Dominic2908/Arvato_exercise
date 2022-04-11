@@ -1,0 +1,702 @@
+[
+  {
+    "ddat": "product0",
+    "countryOfOrigin": "LV",
+    "price": "1469.18",
+    "isFragile": true,
+    "timesPurchased": 4650
+  },
+  {
+    "ddat": "product1",
+    "countryOfOrigin": "MT",
+    "price": "520.19",
+    "isFragile": false,
+    "timesPurchased": 2728
+  },
+  {
+    "ddat": "product2",
+    "countryOfOrigin": "DE",
+    "price": "2558.35",
+    "isFragile": true,
+    "timesPurchased": 3633
+  },
+  {
+    "ddat": "product3",
+    "countryOfOrigin": "IL",
+    "price": "2353.1",
+    "isFragile": true,
+    "timesPurchased": 159
+  },
+  {
+    "ddat": "product4",
+    "countryOfOrigin": "PR",
+    "price": "654.3",
+    "isFragile": false,
+    "timesPurchased": 383
+  },
+  {
+    "ddat": "product5",
+    "countryOfOrigin": "VG",
+    "price": "3017.94",
+    "isFragile": false,
+    "timesPurchased": 2041
+  },
+  {
+    "ddat": "product6",
+    "countryOfOrigin": "CL",
+    "price": "157.76",
+    "isFragile": true,
+    "timesPurchased": 664
+  },
+  {
+    "ddat": "product7",
+    "countryOfOrigin": "MG",
+    "price": 21,
+    "isFragile": true,
+    "timesPurchased": 597
+  },
+  {
+    "ddat": "product8",
+    "countryOfOrigin": "DE",
+    "price": "4808.61",
+    "isFragile": false,
+    "timesPurchased": 2750
+  },
+  {
+    "ddat": "product9",
+    "countryOfOrigin": "UY",
+    "price": "1619.94",
+    "isFragile": false,
+    "timesPurchased": 2291
+  },
+  {
+    "ddat": "product10",
+    "countryOfOrigin": "CV",
+    "price": "7278.77",
+    "isFragile": true,
+    "timesPurchased": 3953
+  },
+  {
+    "ddat": "product11",
+    "countryOfOrigin": "CI",
+    "price": "2715.7",
+    "isFragile": false,
+    "timesPurchased": 2858
+  },
+  {
+    "ddat": "product12",
+    "countryOfOrigin": "CF",
+    "price": "3358.39",
+    "isFragile": true,
+    "timesPurchased": 3154
+  },
+  {
+    "ddat": "product13",
+    "countryOfOrigin": "NG",
+    "price": "4547.73",
+    "isFragile": false,
+    "timesPurchased": 1755
+  },
+  {
+    "ddat": "product14",
+    "countryOfOrigin": "PL",
+    "price": 4427,
+    "isFragile": false,
+    "timesPurchased": 2553
+  },
+  {
+    "ddat": "product15",
+    "countryOfOrigin": "BB",
+    "price": "7303.62",
+    "isFragile": true,
+    "timesPurchased": 1247
+  },
+  {
+    "ddat": "product16",
+    "countryOfOrigin": "TC",
+    "price": "6113.93",
+    "isFragile": false,
+    "timesPurchased": 901
+  },
+  {
+    "ddat": "product17",
+    "countryOfOrigin": "AQ",
+    "price": "8609.12",
+    "isFragile": true,
+    "timesPurchased": 3265
+  },
+  {
+    "ddat": "product18",
+    "countryOfOrigin": "SJ",
+    "price": "5034.32",
+    "isFragile": false,
+    "timesPurchased": 2558
+  },
+  {
+    "ddat": "product19",
+    "countryOfOrigin": "LY",
+    "price": "4503.53",
+    "isFragile": false,
+    "timesPurchased": 2681
+  },
+  {
+    "ddat": "product20",
+    "countryOfOrigin": "JM",
+    "price": "7945.15",
+    "isFragile": false,
+    "timesPurchased": 2878
+  },
+  {
+    "ddat": "product21",
+    "countryOfOrigin": "ZA",
+    "price": "4674.8",
+    "isFragile": true,
+    "timesPurchased": 3399
+  },
+  {
+    "ddat": "product22",
+    "countryOfOrigin": "TH",
+    "price": "5519.05",
+    "isFragile": true,
+    "timesPurchased": 3263
+  },
+  {
+    "ddat": "product23",
+    "countryOfOrigin": "BW",
+    "price": "1059.72",
+    "isFragile": false,
+    "timesPurchased": 703
+  },
+  {
+    "ddat": "product24",
+    "countryOfOrigin": "IN",
+    "price": "3955.81",
+    "isFragile": true,
+    "timesPurchased": 286
+  },
+  {
+    "ddat": "product25",
+    "countryOfOrigin": "VU",
+    "price": "7254.81",
+    "isFragile": true,
+    "timesPurchased": 3449
+  },
+  {
+    "ddat": "product26",
+    "countryOfOrigin": "PY",
+    "price": "5556.53",
+    "isFragile": true,
+    "timesPurchased": 764
+  },
+  {
+    "ddat": "product27",
+    "countryOfOrigin": "TP",
+    "price": "2014.81",
+    "isFragile": false,
+    "timesPurchased": 2325
+  },
+  {
+    "ddat": "product28",
+    "countryOfOrigin": "DE",
+    "price": "7588.55",
+    "isFragile": false,
+    "timesPurchased": 3300
+  },
+  {
+    "ddat": "product29",
+    "countryOfOrigin": "US",
+    "price": "4995.84",
+    "isFragile": false,
+    "timesPurchased": 1456
+  },
+  {
+    "ddat": "product30",
+    "countryOfOrigin": "BH",
+    "price": "3517.09",
+    "isFragile": true,
+    "timesPurchased": 1524
+  },
+  {
+    "ddat": "product31",
+    "countryOfOrigin": "HN",
+    "price": "716.18",
+    "isFragile": true,
+    "timesPurchased": 2893
+  },
+  {
+    "ddat": "product32",
+    "countryOfOrigin": "CC",
+    "price": "5415.8",
+    "isFragile": true,
+    "timesPurchased": 1213
+  },
+  {
+    "ddat": "product33",
+    "countryOfOrigin": "CR",
+    "price": "4137.15",
+    "isFragile": true,
+    "timesPurchased": 2174
+  },
+  {
+    "ddat": "product34",
+    "countryOfOrigin": "CY",
+    "price": "1889.61",
+    "isFragile": false,
+    "timesPurchased": 2881
+  },
+  {
+    "ddat": "product35",
+    "countryOfOrigin": "BE",
+    "price": "8462.92",
+    "isFragile": false,
+    "timesPurchased": 3271
+  },
+  {
+    "ddat": "product36",
+    "countryOfOrigin": "KE",
+    "price": "8148.78",
+    "isFragile": false,
+    "timesPurchased": 2051
+  },
+  {
+    "ddat": "product37",
+    "countryOfOrigin": "BR",
+    "price": "6538.74",
+    "isFragile": false,
+    "timesPurchased": 2898
+  },
+  {
+    "ddat": "product38",
+    "countryOfOrigin": "LR",
+    "price": "4743.63",
+    "isFragile": false,
+    "timesPurchased": 45
+  },
+  {
+    "ddat": "product39",
+    "countryOfOrigin": "NO",
+    "price": "7877.22",
+    "isFragile": false,
+    "timesPurchased": 1539
+  },
+  {
+    "ddat": "product40",
+    "countryOfOrigin": "KZ",
+    "price": "7422.9",
+    "isFragile": false,
+    "timesPurchased": 2116
+  },
+  {
+    "ddat": "product41",
+    "countryOfOrigin": "CN",
+    "price": "4044.33",
+    "isFragile": false,
+    "timesPurchased": 3137
+  },
+  {
+    "ddat": "product42",
+    "countryOfOrigin": "EE",
+    "price": "2897.53",
+    "isFragile": false,
+    "timesPurchased": 833
+  },
+  {
+    "ddat": "product43",
+    "countryOfOrigin": "JP",
+    "price": "8715.26",
+    "isFragile": false,
+    "timesPurchased": 1235
+  },
+  {
+    "ddat": "product44",
+    "countryOfOrigin": "GN",
+    "price": "3245.52",
+    "isFragile": false,
+    "timesPurchased": 1332
+  },
+  {
+    "ddat": "product45",
+    "countryOfOrigin": "AM",
+    "price": "6506.59",
+    "isFragile": true,
+    "timesPurchased": 2923
+  },
+  {
+    "ddat": "product46",
+    "countryOfOrigin": "DJ",
+    "price": "5770.16",
+    "isFragile": false,
+    "timesPurchased": 750
+  },
+  {
+    "ddat": "product47",
+    "countryOfOrigin": "MO",
+    "price": 8231,
+    "isFragile": false,
+    "timesPurchased": 3624
+  },
+  {
+    "ddat": "product48",
+    "countryOfOrigin": "HM",
+    "price": "7170.16",
+    "isFragile": false,
+    "timesPurchased": 2015
+  },
+  {
+    "ddat": "product49",
+    "countryOfOrigin": "BM",
+    "price": "6145.24",
+    "isFragile": false,
+    "timesPurchased": 489
+  },
+  {
+    "ddat": "product50",
+    "countryOfOrigin": "PH",
+    "price": "5224.09",
+    "isFragile": true,
+    "timesPurchased": 402
+  },
+  {
+    "ddat": "product51",
+    "countryOfOrigin": "SI",
+    "price": "4074.53",
+    "isFragile": true,
+    "timesPurchased": 3851
+  },
+  {
+    "ddat": "product52",
+    "countryOfOrigin": "BT",
+    "price": "8588.23",
+    "isFragile": true,
+    "timesPurchased": 2270
+  },
+  {
+    "ddat": "product53",
+    "countryOfOrigin": "SG",
+    "price": "1300.81",
+    "isFragile": false,
+    "timesPurchased": 273
+  },
+  {
+    "ddat": "product54",
+    "countryOfOrigin": "BD",
+    "price": "942.31",
+    "isFragile": false,
+    "timesPurchased": 570
+  },
+  {
+    "ddat": "product55",
+    "countryOfOrigin": "NC",
+    "price": "2213.84",
+    "isFragile": true,
+    "timesPurchased": 3082
+  },
+  {
+    "ddat": "product56",
+    "countryOfOrigin": "MK",
+    "price": "763.88",
+    "isFragile": true,
+    "timesPurchased": 2995
+  },
+  {
+    "ddat": "product57",
+    "countryOfOrigin": "VE",
+    "price": "5945.52",
+    "isFragile": true,
+    "timesPurchased": 873
+  },
+  {
+    "ddat": "product58",
+    "countryOfOrigin": "JO",
+    "price": "571.38",
+    "isFragile": true,
+    "timesPurchased": 2085
+  },
+  {
+    "ddat": "product59",
+    "countryOfOrigin": "LT",
+    "price": "3521.06",
+    "isFragile": true,
+    "timesPurchased": 2842
+  },
+  {
+    "ddat": "product60",
+    "countryOfOrigin": "MA",
+    "price": "6757.71",
+    "isFragile": true,
+    "timesPurchased": 2609
+  },
+  {
+    "ddat": "product61",
+    "countryOfOrigin": "MY",
+    "price": "434.87",
+    "isFragile": true,
+    "timesPurchased": 1484
+  },
+  {
+    "ddat": "product62",
+    "countryOfOrigin": "KN",
+    "price": "6157.72",
+    "isFragile": false,
+    "timesPurchased": 2520
+  },
+  {
+    "ddat": "product63",
+    "countryOfOrigin": "NE",
+    "price": "1595.12",
+    "isFragile": true,
+    "timesPurchased": 2521
+  },
+  {
+    "ddat": "product64",
+    "countryOfOrigin": "BO",
+    "price": "756.9",
+    "isFragile": false,
+    "timesPurchased": 2816
+  },
+  {
+    "ddat": "product65",
+    "countryOfOrigin": "NR",
+    "price": "4591.22",
+    "isFragile": false,
+    "timesPurchased": 3487
+  },
+  {
+    "ddat": "product66",
+    "countryOfOrigin": "BY",
+    "price": "2987.54",
+    "isFragile": false,
+    "timesPurchased": 237
+  },
+  {
+    "ddat": "product67",
+    "countryOfOrigin": "PW",
+    "price": "2879.06",
+    "isFragile": false,
+    "timesPurchased": 2957
+  },
+  {
+    "ddat": "product68",
+    "countryOfOrigin": "ER",
+    "price": "2347.74",
+    "isFragile": true,
+    "timesPurchased": 2543
+  },
+  {
+    "ddat": "product69",
+    "countryOfOrigin": "GH",
+    "price": "792.71",
+    "isFragile": false,
+    "timesPurchased": 251
+  },
+  {
+    "ddat": "product70",
+    "countryOfOrigin": "MM",
+    "price": "6591.52",
+    "isFragile": false,
+    "timesPurchased": 2042
+  },
+  {
+    "ddat": "product71",
+    "countryOfOrigin": "GS",
+    "price": "3955.68",
+    "isFragile": true,
+    "timesPurchased": 1957
+  },
+  {
+    "ddat": "product72",
+    "countryOfOrigin": "BZ",
+    "price": "2716.85",
+    "isFragile": false,
+    "timesPurchased": 3800
+  },
+  {
+    "ddat": "product73",
+    "countryOfOrigin": "PE",
+    "price": "2182.32",
+    "isFragile": true,
+    "timesPurchased": 2719
+  },
+  {
+    "ddat": "product74",
+    "countryOfOrigin": "IE",
+    "price": "4505.63",
+    "isFragile": false,
+    "timesPurchased": 539
+  },
+  {
+    "ddat": "product75",
+    "countryOfOrigin": "TG",
+    "price": "1857.23",
+    "isFragile": true,
+    "timesPurchased": 3206
+  },
+  {
+    "ddat": "product76",
+    "countryOfOrigin": "HK",
+    "price": "2097.33",
+    "isFragile": false,
+    "timesPurchased": 2825
+  },
+  {
+    "ddat": "product77",
+    "countryOfOrigin": "ZR",
+    "price": "2280.31",
+    "isFragile": true,
+    "timesPurchased": 3042
+  },
+  {
+    "ddat": "product78",
+    "countryOfOrigin": "TR",
+    "price": "2261.38",
+    "isFragile": false,
+    "timesPurchased": 1830
+  },
+  {
+    "ddat": "product79",
+    "countryOfOrigin": "AT",
+    "price": "4161.56",
+    "isFragile": false,
+    "timesPurchased": 3279
+  },
+  {
+    "ddat": "product80",
+    "countryOfOrigin": "TW",
+    "price": "6283.63",
+    "isFragile": false,
+    "timesPurchased": 1470
+  },
+  {
+    "ddat": "product81",
+    "countryOfOrigin": "VN",
+    "price": "2648.12",
+    "isFragile": true,
+    "timesPurchased": 3291
+  },
+  {
+    "ddat": "product82",
+    "countryOfOrigin": "TJ",
+    "price": "8851.57",
+    "isFragile": true,
+    "timesPurchased": 2994
+  },
+  {
+    "ddat": "product83",
+    "countryOfOrigin": "CX",
+    "price": "1029.61",
+    "isFragile": true,
+    "timesPurchased": 1873
+  },
+  {
+    "ddat": "product84",
+    "countryOfOrigin": "KP",
+    "price": "1056.6",
+    "isFragile": false,
+    "timesPurchased": 124
+  },
+  {
+    "ddat": "product85",
+    "countryOfOrigin": "SV",
+    "price": "6188.73",
+    "isFragile": false,
+    "timesPurchased": 389
+  },
+  {
+    "ddat": "product86",
+    "countryOfOrigin": "MZ",
+    "price": 3240,
+    "isFragile": true,
+    "timesPurchased": 2991
+  },
+  {
+    "ddat": "product87",
+    "countryOfOrigin": "UK",
+    "price": "6682.31",
+    "isFragile": false,
+    "timesPurchased": 3104
+  },
+  {
+    "ddat": "product88",
+    "countryOfOrigin": "HR",
+    "price": "7586.89",
+    "isFragile": false,
+    "timesPurchased": 2232
+  },
+  {
+    "ddat": "product89",
+    "countryOfOrigin": "GM",
+    "price": "5204.23",
+    "isFragile": true,
+    "timesPurchased": 2062
+  },
+  {
+    "ddat": "product90",
+    "countryOfOrigin": "GA",
+    "price": "3189.95",
+    "isFragile": true,
+    "timesPurchased": 1865
+  },
+  {
+    "ddat": "product91",
+    "countryOfOrigin": "CU",
+    "price": "4508.95",
+    "isFragile": false,
+    "timesPurchased": 2852
+  },
+  {
+    "ddat": "product92",
+    "countryOfOrigin": "MN",
+    "price": "393.1",
+    "isFragile": false,
+    "timesPurchased": 3331
+  },
+  {
+    "ddat": "product93",
+    "countryOfOrigin": "FO",
+    "price": "2146.97",
+    "isFragile": true,
+    "timesPurchased": 1889
+  },
+  {
+    "ddat": "product94",
+    "countryOfOrigin": "CO",
+    "price": "952.84",
+    "isFragile": true,
+    "timesPurchased": 2498
+  },
+  {
+    "ddat": "product95",
+    "countryOfOrigin": "WS",
+    "price": "6417.83",
+    "isFragile": true,
+    "timesPurchased": 3030
+  },
+  {
+    "ddat": "product96",
+    "countryOfOrigin": "SL",
+    "price": "887.25",
+    "isFragile": true,
+    "timesPurchased": 654
+  },
+  {
+    "ddat": "product97",
+    "countryOfOrigin": "NZ",
+    "price": "377.54",
+    "isFragile": false,
+    "timesPurchased": 143
+  },
+  {
+    "ddat": "product98",
+    "countryOfOrigin": "AZ",
+    "price": "7273.9",
+    "isFragile": true,
+    "timesPurchased": 2366
+  },
+  {
+    "ddat": "product99",
+    "countryOfOrigin": "AD",
+    "price": "5986.65",
+    "isFragile": true,
+    "timesPurchased": 1085
+  }
+]
