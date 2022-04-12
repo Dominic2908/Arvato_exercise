@@ -77,6 +77,20 @@ class Controller
                 $result = json_encode($responseArray);
 
                 break;
+            case "json_generate":
+
+                $arrayJason = $this->exercise->csv_read();
+                $arrayJason = $this->exercise->json_evaluate();
+
+                $responseArray = array(
+                    "result" => $arrayJason,
+                    "position" => "#json_generate"
+                );
+
+                //Das Resultobjekt Kodieren
+                $result = json_encode($responseArray);
+
+                break;
 
             default:
                 $result = "Ein Fehler ist aufgetreten!";

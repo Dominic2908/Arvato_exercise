@@ -9,6 +9,9 @@ $(document).ready(function(){
     $("#array_intersect").click(function(){
             SendAjaxJsonRequest("classes/server.php", "array_intersect");
     });
+    $("#json_generate").click(function(){
+            SendAjaxJsonRequest("classes/server.php", "json_generate");
+    });
 
 /**
  * Sendet Ajax-Request
@@ -31,10 +34,11 @@ function SendAjaxJsonRequest(url, method, jsonObject)
  */
 function onSuccess(content)
 {
-    console.log(content)
+    //console.log(content)
     // Das empfangene Objekt wird wieder zum Objekt geparst
     var response = $.parseJSON(content);
-    //console.log(response)
+    //var response = $.parseJSON(content.result);
+    console.log(response.result)
     $(response.position).val(response.result);
     switch (response.position)
     {
@@ -49,6 +53,12 @@ function onSuccess(content)
         case "#array_out_diff":
             let output = array_out(response);
             $('#array_out_intersect').val(output);
+            break;
+        case "#json_generate":
+            let output_highest_price = array_out(response);
+            $('#highest_price_out').val(response.result.highest.ddat);
+            $('#lowest_price_out').val(response.result.lowest.ddat);
+            $('#times_purchased').val(response.result.times_purchased.ddat);
             break;
         default:
             $result = "Ein Fehler ist aufgetreten!";
