@@ -1,0 +1,52 @@
+[
+  {
+    "name": "flear_one",
+    "price": "20",
+    "rating": "10"
+  },
+  {
+    "name": "flear_two",
+    "price": "18",
+    "rating": "9"
+  },
+  {
+    "name": "flear_three",
+    "price": "16",
+    "rating": "8"
+  },
+  {
+    "name": "flear_four",
+    "price": "14",
+    "rating": "7"
+  },
+  {
+    "name": "flear_five",
+    "price": "12",
+    "rating": "6"
+  },
+  {
+    "name": "flear_six",
+    "price": "11",
+    "rating": "5"
+  },
+  {
+    "name": "flear_seven",
+    "price": "10",
+    "rating": "4"
+  },
+  {
+    "name": "eightflear_eight",
+    "price": "8",
+    "rating": "3"
+  },
+  {
+    "name": "flear_nine",
+    "price": "6",
+    "rating": "2"
+  },
+  {
+    "name": "flear_ten",
+    "price": "1",
+    "rating": "1"
+  }
+]

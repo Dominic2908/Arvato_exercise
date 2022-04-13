@@ -23,1162 +23,968 @@
     "product_to_land": {
         "8": [
             {
-                "AD": {
-                    "ddat": "product99",
-                    "countryOfOrigin": "AD",
-                    "price": "5986.65",
-                    "isFragile": true,
-                    "timesPurchased": 1085,
-                    "land": "Andorra"
-                }
+                "ddat": "product99",
+                "countryOfOrigin": "AD",
+                "price": "5986.65",
+                "isFragile": true,
+                "timesPurchased": 1085,
+                "land": "Andorra"
             }
         ],
         "11": [
             {
-                "AQ": {
-                    "ddat": "product17",
-                    "countryOfOrigin": "AQ",
-                    "price": "8609.12",
-                    "isFragile": true,
-                    "timesPurchased": 3265,
-                    "land": "Antarctica"
-                }
+                "ddat": "product17",
+                "countryOfOrigin": "AQ",
+                "price": "8609.12",
+                "isFragile": true,
+                "timesPurchased": 3265,
+                "land": "Antarctica"
             }
         ],
         "14": [
             {
-                "AM": {
-                    "ddat": "product45",
-                    "countryOfOrigin": "AM",
-                    "price": "6506.59",
-                    "isFragile": true,
-                    "timesPurchased": 2923,
-                    "land": "Armenia"
-                }
+                "ddat": "product45",
+                "countryOfOrigin": "AM",
+                "price": "6506.59",
+                "isFragile": true,
+                "timesPurchased": 2923,
+                "land": "Armenia"
             }
         ],
         "17": [
             {
-                "AT": {
-                    "ddat": "product79",
-                    "countryOfOrigin": "AT",
-                    "price": "4161.56",
-                    "isFragile": false,
-                    "timesPurchased": 3279,
-                    "land": "Austria"
-                }
+                "ddat": "product79",
+                "countryOfOrigin": "AT",
+                "price": "4161.56",
+                "isFragile": false,
+                "timesPurchased": 3279,
+                "land": "Austria"
             }
         ],
         "18": [
             {
-                "AZ": {
-                    "ddat": "product98",
-                    "countryOfOrigin": "AZ",
-                    "price": "7273.9",
-                    "isFragile": true,
-                    "timesPurchased": 2366,
-                    "land": "Azerbaijan"
-                }
+                "ddat": "product98",
+                "countryOfOrigin": "AZ",
+                "price": "7273.9",
+                "isFragile": true,
+                "timesPurchased": 2366,
+                "land": "Azerbaijan"
             }
         ],
         "20": [
             {
-                "BH": {
-                    "ddat": "product30",
-                    "countryOfOrigin": "BH",
-                    "price": "3517.09",
-                    "isFragile": true,
-                    "timesPurchased": 1524,
-                    "land": "Bahrain"
-                }
+                "ddat": "product30",
+                "countryOfOrigin": "BH",
+                "price": "3517.09",
+                "isFragile": true,
+                "timesPurchased": 1524,
+                "land": "Bahrain"
             }
         ],
         "21": [
             {
-                "BD": {
-                    "ddat": "product54",
-                    "countryOfOrigin": "BD",
-                    "price": "942.31",
-                    "isFragile": false,
-                    "timesPurchased": 570,
-                    "land": "Bangladesh"
-                }
+                "ddat": "product54",
+                "countryOfOrigin": "BD",
+                "price": "942.31",
+                "isFragile": false,
+                "timesPurchased": 570,
+                "land": "Bangladesh"
             }
         ],
         "22": [
             {
-                "BB": {
-                    "ddat": "product15",
-                    "countryOfOrigin": "BB",
-                    "price": "7303.62",
-                    "isFragile": true,
-                    "timesPurchased": 1247,
-                    "land": "Barbados"
-                }
+                "ddat": "product15",
+                "countryOfOrigin": "BB",
+                "price": "7303.62",
+                "isFragile": true,
+                "timesPurchased": 1247,
+                "land": "Barbados"
             }
         ],
         "23": [
             {
-                "BY": {
-                    "ddat": "product66",
-                    "countryOfOrigin": "BY",
-                    "price": "2987.54",
-                    "isFragile": false,
-                    "timesPurchased": 237,
-                    "land": "Belarus"
-                }
+                "ddat": "product66",
+                "countryOfOrigin": "BY",
+                "price": "2987.54",
+                "isFragile": false,
+                "timesPurchased": 237,
+                "land": "Belarus"
             }
         ],
         "24": [
             {
-                "BE": {
-                    "ddat": "product35",
-                    "countryOfOrigin": "BE",
-                    "price": "8462.92",
-                    "isFragile": false,
-                    "timesPurchased": 3271,
-                    "land": "Belgium"
-                }
+                "ddat": "product35",
+                "countryOfOrigin": "BE",
+                "price": "8462.92",
+                "isFragile": false,
+                "timesPurchased": 3271,
+                "land": "Belgium"
             }
         ],
         "25": [
             {
-                "BZ": {
-                    "ddat": "product72",
-                    "countryOfOrigin": "BZ",
-                    "price": "2716.85",
-                    "isFragile": false,
-                    "timesPurchased": 3800,
-                    "land": "Belize"
-                }
+                "ddat": "product72",
+                "countryOfOrigin": "BZ",
+                "price": "2716.85",
+                "isFragile": false,
+                "timesPurchased": 3800,
+                "land": "Belize"
             }
         ],
         "27": [
             {
-                "BM": {
-                    "ddat": "product49",
-                    "countryOfOrigin": "BM",
-                    "price": "6145.24",
-                    "isFragile": false,
-                    "timesPurchased": 489,
-                    "land": "Bermuda"
-                }
+                "ddat": "product49",
+                "countryOfOrigin": "BM",
+                "price": "6145.24",
+                "isFragile": false,
+                "timesPurchased": 489,
+                "land": "Bermuda"
             }
         ],
         "28": [
             {
-                "BT": {
-                    "ddat": "product52",
-                    "countryOfOrigin": "BT",
-                    "price": "8588.23",
-                    "isFragile": true,
-                    "timesPurchased": 2270,
-                    "land": "Bhutan"
-                }
+                "ddat": "product52",
+                "countryOfOrigin": "BT",
+                "price": "8588.23",
+                "isFragile": true,
+                "timesPurchased": 2270,
+                "land": "Bhutan"
             }
         ],
         "29": [
             {
-                "BO": {
-                    "ddat": "product64",
-                    "countryOfOrigin": "BO",
-                    "price": "756.9",
-                    "isFragile": false,
-                    "timesPurchased": 2816,
-                    "land": "Bolivia (Plurinational State of)"
-                }
+                "ddat": "product64",
+                "countryOfOrigin": "BO",
+                "price": "756.9",
+                "isFragile": false,
+                "timesPurchased": 2816,
+                "land": "Bolivia (Plurinational State of)"
             }
         ],
         "32": [
             {
-                "BW": {
-                    "ddat": "product23",
-                    "countryOfOrigin": "BW",
-                    "price": "1059.72",
-                    "isFragile": false,
-                    "timesPurchased": 703,
-                    "land": "Botswana"
-                }
+                "ddat": "product23",
+                "countryOfOrigin": "BW",
+                "price": "1059.72",
+                "isFragile": false,
+                "timesPurchased": 703,
+                "land": "Botswana"
             }
         ],
         "34": [
             {
-                "BR": {
-                    "ddat": "product37",
-                    "countryOfOrigin": "BR",
-                    "price": "6538.74",
-                    "isFragile": false,
-                    "timesPurchased": 2898,
-                    "land": "Brazil"
-                }
+                "ddat": "product37",
+                "countryOfOrigin": "BR",
+                "price": "6538.74",
+                "isFragile": false,
+                "timesPurchased": 2898,
+                "land": "Brazil"
             }
         ],
         "40": [
             {
-                "CV": {
-                    "ddat": "product10",
-                    "countryOfOrigin": "CV",
-                    "price": "7278.77",
-                    "isFragile": true,
-                    "timesPurchased": 3953,
-                    "land": "Cabo Verde"
-                }
+                "ddat": "product10",
+                "countryOfOrigin": "CV",
+                "price": "7278.77",
+                "isFragile": true,
+                "timesPurchased": 3953,
+                "land": "Cabo Verde"
             }
         ],
         "45": [
             {
-                "CF": {
-                    "ddat": "product12",
-                    "countryOfOrigin": "CF",
-                    "price": "3358.39",
-                    "isFragile": true,
-                    "timesPurchased": 3154,
-                    "land": "Central African Republic"
-                }
+                "ddat": "product12",
+                "countryOfOrigin": "CF",
+                "price": "3358.39",
+                "isFragile": true,
+                "timesPurchased": 3154,
+                "land": "Central African Republic"
             }
         ],
         "47": [
             {
-                "CL": {
-                    "ddat": "product6",
-                    "countryOfOrigin": "CL",
-                    "price": "157.76",
-                    "isFragile": true,
-                    "timesPurchased": 664,
-                    "land": "Chile"
-                }
+                "ddat": "product6",
+                "countryOfOrigin": "CL",
+                "price": "157.76",
+                "isFragile": true,
+                "timesPurchased": 664,
+                "land": "Chile"
             }
         ],
         "48": [
             {
-                "CN": {
-                    "ddat": "product41",
-                    "countryOfOrigin": "CN",
-                    "price": "4044.33",
-                    "isFragile": false,
-                    "timesPurchased": 3137,
-                    "land": "China"
-                }
+                "ddat": "product41",
+                "countryOfOrigin": "CN",
+                "price": "4044.33",
+                "isFragile": false,
+                "timesPurchased": 3137,
+                "land": "China"
             }
         ],
         "49": [
             {
-                "CX": {
-                    "ddat": "product83",
-                    "countryOfOrigin": "CX",
-                    "price": "1029.61",
-                    "isFragile": true,
-                    "timesPurchased": 1873,
-                    "land": "Christmas Island"
-                }
+                "ddat": "product83",
+                "countryOfOrigin": "CX",
+                "price": "1029.61",
+                "isFragile": true,
+                "timesPurchased": 1873,
+                "land": "Christmas Island"
             }
         ],
         "50": [
             {
-                "CC": {
-                    "ddat": "product32",
-                    "countryOfOrigin": "CC",
-                    "price": "5415.8",
-                    "isFragile": true,
-                    "timesPurchased": 1213,
-                    "land": "Cocos (Keeling) Islands"
-                }
+                "ddat": "product32",
+                "countryOfOrigin": "CC",
+                "price": "5415.8",
+                "isFragile": true,
+                "timesPurchased": 1213,
+                "land": "Cocos (Keeling) Islands"
             }
         ],
         "51": [
             {
-                "CO": {
-                    "ddat": "product94",
-                    "countryOfOrigin": "CO",
-                    "price": "952.84",
-                    "isFragile": true,
-                    "timesPurchased": 2498,
-                    "land": "Colombia"
-                }
+                "ddat": "product94",
+                "countryOfOrigin": "CO",
+                "price": "952.84",
+                "isFragile": true,
+                "timesPurchased": 2498,
+                "land": "Colombia"
             }
         ],
         "56": [
             {
-                "CR": {
-                    "ddat": "product33",
-                    "countryOfOrigin": "CR",
-                    "price": "4137.15",
-                    "isFragile": true,
-                    "timesPurchased": 2174,
-                    "land": "Costa Rica"
-                }
+                "ddat": "product33",
+                "countryOfOrigin": "CR",
+                "price": "4137.15",
+                "isFragile": true,
+                "timesPurchased": 2174,
+                "land": "Costa Rica"
             }
         ],
         "57": [
             {
-                "CI": {
-                    "ddat": "product11",
-                    "countryOfOrigin": "CI",
-                    "price": "2715.7",
-                    "isFragile": false,
-                    "timesPurchased": 2858,
-                    "land": "C\u00f4te d'Ivoire"
-                }
+                "ddat": "product11",
+                "countryOfOrigin": "CI",
+                "price": "2715.7",
+                "isFragile": false,
+                "timesPurchased": 2858,
+                "land": "C\u00f4te d'Ivoire"
             }
         ],
         "58": [
             {
-                "HR": {
-                    "ddat": "product88",
-                    "countryOfOrigin": "HR",
-                    "price": "7586.89",
-                    "isFragile": false,
-                    "timesPurchased": 2232,
-                    "land": "Croatia"
-                }
+                "ddat": "product88",
+                "countryOfOrigin": "HR",
+                "price": "7586.89",
+                "isFragile": false,
+                "timesPurchased": 2232,
+                "land": "Croatia"
             }
         ],
         "59": [
             {
-                "CU": {
-                    "ddat": "product91",
-                    "countryOfOrigin": "CU",
-                    "price": "4508.95",
-                    "isFragile": false,
-                    "timesPurchased": 2852,
-                    "land": "Cuba"
-                }
+                "ddat": "product91",
+                "countryOfOrigin": "CU",
+                "price": "4508.95",
+                "isFragile": false,
+                "timesPurchased": 2852,
+                "land": "Cuba"
             }
         ],
         "61": [
             {
-                "CY": {
-                    "ddat": "product34",
-                    "countryOfOrigin": "CY",
-                    "price": "1889.61",
-                    "isFragile": false,
-                    "timesPurchased": 2881,
-                    "land": "Cyprus"
-                }
+                "ddat": "product34",
+                "countryOfOrigin": "CY",
+                "price": "1889.61",
+                "isFragile": false,
+                "timesPurchased": 2881,
+                "land": "Cyprus"
             }
         ],
         "64": [
             {
-                "DJ": {
-                    "ddat": "product46",
-                    "countryOfOrigin": "DJ",
-                    "price": "5770.16",
-                    "isFragile": false,
-                    "timesPurchased": 750,
-                    "land": "Djibouti"
-                }
+                "ddat": "product46",
+                "countryOfOrigin": "DJ",
+                "price": "5770.16",
+                "isFragile": false,
+                "timesPurchased": 750,
+                "land": "Djibouti"
             }
         ],
         "69": [
             {
-                "SV": {
-                    "ddat": "product85",
-                    "countryOfOrigin": "SV",
-                    "price": "6188.73",
-                    "isFragile": false,
-                    "timesPurchased": 389,
-                    "land": "El Salvador"
-                }
+                "ddat": "product85",
+                "countryOfOrigin": "SV",
+                "price": "6188.73",
+                "isFragile": false,
+                "timesPurchased": 389,
+                "land": "El Salvador"
             }
         ],
         "71": [
             {
-                "ER": {
-                    "ddat": "product68",
-                    "countryOfOrigin": "ER",
-                    "price": "2347.74",
-                    "isFragile": true,
-                    "timesPurchased": 2543,
-                    "land": "Eritrea"
-                }
+                "ddat": "product68",
+                "countryOfOrigin": "ER",
+                "price": "2347.74",
+                "isFragile": true,
+                "timesPurchased": 2543,
+                "land": "Eritrea"
             }
         ],
         "72": [
             {
-                "EE": {
-                    "ddat": "product42",
-                    "countryOfOrigin": "EE",
-                    "price": "2897.53",
-                    "isFragile": false,
-                    "timesPurchased": 833,
-                    "land": "Estonia"
-                }
+                "ddat": "product42",
+                "countryOfOrigin": "EE",
+                "price": "2897.53",
+                "isFragile": false,
+                "timesPurchased": 833,
+                "land": "Estonia"
             }
         ],
         "76": [
             {
-                "FO": {
-                    "ddat": "product93",
-                    "countryOfOrigin": "FO",
-                    "price": "2146.97",
-                    "isFragile": true,
-                    "timesPurchased": 1889,
-                    "land": "Faroe Islands"
-                }
+                "ddat": "product93",
+                "countryOfOrigin": "FO",
+                "price": "2146.97",
+                "isFragile": true,
+                "timesPurchased": 1889,
+                "land": "Faroe Islands"
             }
         ],
         "83": [
             {
-                "GA": {
-                    "ddat": "product90",
-                    "countryOfOrigin": "GA",
-                    "price": "3189.95",
-                    "isFragile": true,
-                    "timesPurchased": 1865,
-                    "land": "Gabon"
-                }
+                "ddat": "product90",
+                "countryOfOrigin": "GA",
+                "price": "3189.95",
+                "isFragile": true,
+                "timesPurchased": 1865,
+                "land": "Gabon"
             }
         ],
         "84": [
             {
-                "GM": {
-                    "ddat": "product89",
-                    "countryOfOrigin": "GM",
-                    "price": "5204.23",
-                    "isFragile": true,
-                    "timesPurchased": 2062,
-                    "land": "Gambia"
-                }
+                "ddat": "product89",
+                "countryOfOrigin": "GM",
+                "price": "5204.23",
+                "isFragile": true,
+                "timesPurchased": 2062,
+                "land": "Gambia"
             }
         ],
         "86": [
             {
-                "DE": {
-                    "ddat": "product2",
-                    "countryOfOrigin": "DE",
-                    "price": "2558.35",
-                    "isFragile": true,
-                    "timesPurchased": 3633,
-                    "land": "Germany"
-                }
+                "ddat": "product2",
+                "countryOfOrigin": "DE",
+                "price": "2558.35",
+                "isFragile": true,
+                "timesPurchased": 3633,
+                "land": "Germany"
             },
             {
-                "DE": {
-                    "ddat": "product8",
-                    "countryOfOrigin": "DE",
-                    "price": "4808.61",
-                    "isFragile": false,
-                    "timesPurchased": 2750,
-                    "land": "Germany"
-                }
+                "ddat": "product8",
+                "countryOfOrigin": "DE",
+                "price": "4808.61",
+                "isFragile": false,
+                "timesPurchased": 2750,
+                "land": "Germany"
             },
             {
-                "DE": {
-                    "ddat": "product28",
-                    "countryOfOrigin": "DE",
-                    "price": "7588.55",
-                    "isFragile": false,
-                    "timesPurchased": 3300,
-                    "land": "Germany"
-                }
+                "ddat": "product28",
+                "countryOfOrigin": "DE",
+                "price": "7588.55",
+                "isFragile": false,
+                "timesPurchased": 3300,
+                "land": "Germany"
             }
         ],
         "87": [
             {
-                "GH": {
-                    "ddat": "product69",
-                    "countryOfOrigin": "GH",
-                    "price": "792.71",
-                    "isFragile": false,
-                    "timesPurchased": 251,
-                    "land": "Ghana"
-                }
+                "ddat": "product69",
+                "countryOfOrigin": "GH",
+                "price": "792.71",
+                "isFragile": false,
+                "timesPurchased": 251,
+                "land": "Ghana"
             }
         ],
         "96": [
             {
-                "GN": {
-                    "ddat": "product44",
-                    "countryOfOrigin": "GN",
-                    "price": "3245.52",
-                    "isFragile": false,
-                    "timesPurchased": 1332,
-                    "land": "Guinea"
-                }
+                "ddat": "product44",
+                "countryOfOrigin": "GN",
+                "price": "3245.52",
+                "isFragile": false,
+                "timesPurchased": 1332,
+                "land": "Guinea"
             }
         ],
         "100": [
             {
-                "HM": {
-                    "ddat": "product48",
-                    "countryOfOrigin": "HM",
-                    "price": "7170.16",
-                    "isFragile": false,
-                    "timesPurchased": 2015,
-                    "land": "Heard Island and McDonald Islands"
-                }
+                "ddat": "product48",
+                "countryOfOrigin": "HM",
+                "price": "7170.16",
+                "isFragile": false,
+                "timesPurchased": 2015,
+                "land": "Heard Island and McDonald Islands"
             }
         ],
         "102": [
             {
-                "HN": {
-                    "ddat": "product31",
-                    "countryOfOrigin": "HN",
-                    "price": "716.18",
-                    "isFragile": true,
-                    "timesPurchased": 2893,
-                    "land": "Honduras"
-                }
+                "ddat": "product31",
+                "countryOfOrigin": "HN",
+                "price": "716.18",
+                "isFragile": true,
+                "timesPurchased": 2893,
+                "land": "Honduras"
             }
         ],
         "103": [
             {
-                "HK": {
-                    "ddat": "product76",
-                    "countryOfOrigin": "HK",
-                    "price": "2097.33",
-                    "isFragile": false,
-                    "timesPurchased": 2825,
-                    "land": "Hong Kong"
-                }
+                "ddat": "product76",
+                "countryOfOrigin": "HK",
+                "price": "2097.33",
+                "isFragile": false,
+                "timesPurchased": 2825,
+                "land": "Hong Kong"
             }
         ],
         "106": [
             {
-                "IN": {
-                    "ddat": "product24",
-                    "countryOfOrigin": "IN",
-                    "price": "3955.81",
-                    "isFragile": true,
-                    "timesPurchased": 286,
-                    "land": "India"
-                }
+                "ddat": "product24",
+                "countryOfOrigin": "IN",
+                "price": "3955.81",
+                "isFragile": true,
+                "timesPurchased": 286,
+                "land": "India"
             }
         ],
         "110": [
             {
-                "IE": {
-                    "ddat": "product74",
-                    "countryOfOrigin": "IE",
-                    "price": "4505.63",
-                    "isFragile": false,
-                    "timesPurchased": 539,
-                    "land": "Ireland"
-                }
+                "ddat": "product74",
+                "countryOfOrigin": "IE",
+                "price": "4505.63",
+                "isFragile": false,
+                "timesPurchased": 539,
+                "land": "Ireland"
             }
         ],
         "112": [
             {
-                "IL": {
-                    "ddat": "product3",
-                    "countryOfOrigin": "IL",
-                    "price": "2353.1",
-                    "isFragile": true,
-                    "timesPurchased": 159,
-                    "land": "Israel"
-                }
+                "ddat": "product3",
+                "countryOfOrigin": "IL",
+                "price": "2353.1",
+                "isFragile": true,
+                "timesPurchased": 159,
+                "land": "Israel"
             }
         ],
         "114": [
             {
-                "JM": {
-                    "ddat": "product20",
-                    "countryOfOrigin": "JM",
-                    "price": "7945.15",
-                    "isFragile": false,
-                    "timesPurchased": 2878,
-                    "land": "Jamaica"
-                }
+                "ddat": "product20",
+                "countryOfOrigin": "JM",
+                "price": "7945.15",
+                "isFragile": false,
+                "timesPurchased": 2878,
+                "land": "Jamaica"
             }
         ],
         "115": [
             {
-                "JP": {
-                    "ddat": "product43",
-                    "countryOfOrigin": "JP",
-                    "price": "8715.26",
-                    "isFragile": false,
-                    "timesPurchased": 1235,
-                    "land": "Japan"
-                }
+                "ddat": "product43",
+                "countryOfOrigin": "JP",
+                "price": "8715.26",
+                "isFragile": false,
+                "timesPurchased": 1235,
+                "land": "Japan"
             }
         ],
         "117": [
             {
-                "JO": {
-                    "ddat": "product58",
-                    "countryOfOrigin": "JO",
-                    "price": "571.38",
-                    "isFragile": true,
-                    "timesPurchased": 2085,
-                    "land": "Jordan"
-                }
+                "ddat": "product58",
+                "countryOfOrigin": "JO",
+                "price": "571.38",
+                "isFragile": true,
+                "timesPurchased": 2085,
+                "land": "Jordan"
             }
         ],
         "118": [
             {
-                "KZ": {
-                    "ddat": "product40",
-                    "countryOfOrigin": "KZ",
-                    "price": "7422.9",
-                    "isFragile": false,
-                    "timesPurchased": 2116,
-                    "land": "Kazakhstan"
-                }
+                "ddat": "product40",
+                "countryOfOrigin": "KZ",
+                "price": "7422.9",
+                "isFragile": false,
+                "timesPurchased": 2116,
+                "land": "Kazakhstan"
             }
         ],
         "119": [
             {
-                "KE": {
-                    "ddat": "product36",
-                    "countryOfOrigin": "KE",
-                    "price": "8148.78",
-                    "isFragile": false,
-                    "timesPurchased": 2051,
-                    "land": "Kenya"
-                }
+                "ddat": "product36",
+                "countryOfOrigin": "KE",
+                "price": "8148.78",
+                "isFragile": false,
+                "timesPurchased": 2051,
+                "land": "Kenya"
             }
         ],
         "121": [
             {
-                "KP": {
-                    "ddat": "product84",
-                    "countryOfOrigin": "KP",
-                    "price": "1056.6",
-                    "isFragile": false,
-                    "timesPurchased": 124,
-                    "land": "Korea (Democratic People's Republic of)"
-                }
+                "ddat": "product84",
+                "countryOfOrigin": "KP",
+                "price": "1056.6",
+                "isFragile": false,
+                "timesPurchased": 124,
+                "land": "Korea (Democratic People's Republic of)"
             }
         ],
         "126": [
             {
-                "LV": {
-                    "ddat": "product0",
-                    "countryOfOrigin": "LV",
-                    "price": "1469.18",
-                    "isFragile": true,
-                    "timesPurchased": 4650,
-                    "land": "Latvia"
-                }
+                "ddat": "product0",
+                "countryOfOrigin": "LV",
+                "price": "1469.18",
+                "isFragile": true,
+                "timesPurchased": 4650,
+                "land": "Latvia"
             }
         ],
         "129": [
             {
-                "LR": {
-                    "ddat": "product38",
-                    "countryOfOrigin": "LR",
-                    "price": "4743.63",
-                    "isFragile": false,
-                    "timesPurchased": 45,
-                    "land": "Liberia"
-                }
+                "ddat": "product38",
+                "countryOfOrigin": "LR",
+                "price": "4743.63",
+                "isFragile": false,
+                "timesPurchased": 45,
+                "land": "Liberia"
             }
         ],
         "130": [
             {
-                "LY": {
-                    "ddat": "product19",
-                    "countryOfOrigin": "LY",
-                    "price": "4503.53",
-                    "isFragile": false,
-                    "timesPurchased": 2681,
-                    "land": "Libya"
-                }
+                "ddat": "product19",
+                "countryOfOrigin": "LY",
+                "price": "4503.53",
+                "isFragile": false,
+                "timesPurchased": 2681,
+                "land": "Libya"
             }
         ],
         "132": [
             {
-                "LT": {
-                    "ddat": "product59",
-                    "countryOfOrigin": "LT",
-                    "price": "3521.06",
-                    "isFragile": true,
-                    "timesPurchased": 2842,
-                    "land": "Lithuania"
-                }
+                "ddat": "product59",
+                "countryOfOrigin": "LT",
+                "price": "3521.06",
+                "isFragile": true,
+                "timesPurchased": 2842,
+                "land": "Lithuania"
             }
         ],
         "134": [
             {
-                "MO": {
-                    "ddat": "product47",
-                    "countryOfOrigin": "MO",
-                    "price": 8231,
-                    "isFragile": false,
-                    "timesPurchased": 3624,
-                    "land": "Macao"
-                }
+                "ddat": "product47",
+                "countryOfOrigin": "MO",
+                "price": 8231,
+                "isFragile": false,
+                "timesPurchased": 3624,
+                "land": "Macao"
             }
         ],
         "135": [
             {
-                "MG": {
-                    "ddat": "product7",
-                    "countryOfOrigin": "MG",
-                    "price": 21,
-                    "isFragile": true,
-                    "timesPurchased": 597,
-                    "land": "Madagascar"
-                }
+                "ddat": "product7",
+                "countryOfOrigin": "MG",
+                "price": 21,
+                "isFragile": true,
+                "timesPurchased": 597,
+                "land": "Madagascar"
             }
         ],
         "137": [
             {
-                "MY": {
-                    "ddat": "product61",
-                    "countryOfOrigin": "MY",
-                    "price": "434.87",
-                    "isFragile": true,
-                    "timesPurchased": 1484,
-                    "land": "Malaysia"
-                }
+                "ddat": "product61",
+                "countryOfOrigin": "MY",
+                "price": "434.87",
+                "isFragile": true,
+                "timesPurchased": 1484,
+                "land": "Malaysia"
             }
         ],
         "140": [
             {
-                "MT": {
-                    "ddat": "product1",
-                    "countryOfOrigin": "MT",
-                    "price": "520.19",
-                    "isFragile": false,
-                    "timesPurchased": 2728,
-                    "land": "Malta"
-                }
+                "ddat": "product1",
+                "countryOfOrigin": "MT",
+                "price": "520.19",
+                "isFragile": false,
+                "timesPurchased": 2728,
+                "land": "Malta"
             }
         ],
         "150": [
             {
-                "MN": {
-                    "ddat": "product92",
-                    "countryOfOrigin": "MN",
-                    "price": "393.1",
-                    "isFragile": false,
-                    "timesPurchased": 3331,
-                    "land": "Mongolia"
-                }
+                "ddat": "product92",
+                "countryOfOrigin": "MN",
+                "price": "393.1",
+                "isFragile": false,
+                "timesPurchased": 3331,
+                "land": "Mongolia"
             }
         ],
         "153": [
             {
-                "MA": {
-                    "ddat": "product60",
-                    "countryOfOrigin": "MA",
-                    "price": "6757.71",
-                    "isFragile": true,
-                    "timesPurchased": 2609,
-                    "land": "Morocco"
-                }
+                "ddat": "product60",
+                "countryOfOrigin": "MA",
+                "price": "6757.71",
+                "isFragile": true,
+                "timesPurchased": 2609,
+                "land": "Morocco"
             }
         ],
         "154": [
             {
-                "MZ": {
-                    "ddat": "product86",
-                    "countryOfOrigin": "MZ",
-                    "price": 3240,
-                    "isFragile": true,
-                    "timesPurchased": 2991,
-                    "land": "Mozambique"
-                }
+                "ddat": "product86",
+                "countryOfOrigin": "MZ",
+                "price": 3240,
+                "isFragile": true,
+                "timesPurchased": 2991,
+                "land": "Mozambique"
             }
         ],
         "155": [
             {
-                "MM": {
-                    "ddat": "product70",
-                    "countryOfOrigin": "MM",
-                    "price": "6591.52",
-                    "isFragile": false,
-                    "timesPurchased": 2042,
-                    "land": "Myanmar"
-                }
+                "ddat": "product70",
+                "countryOfOrigin": "MM",
+                "price": "6591.52",
+                "isFragile": false,
+                "timesPurchased": 2042,
+                "land": "Myanmar"
             }
         ],
         "157": [
             {
-                "NR": {
-                    "ddat": "product65",
-                    "countryOfOrigin": "NR",
-                    "price": "4591.22",
-                    "isFragile": false,
-                    "timesPurchased": 3487,
-                    "land": "Nauru"
-                }
+                "ddat": "product65",
+                "countryOfOrigin": "NR",
+                "price": "4591.22",
+                "isFragile": false,
+                "timesPurchased": 3487,
+                "land": "Nauru"
             }
         ],
         "160": [
             {
-                "NC": {
-                    "ddat": "product55",
-                    "countryOfOrigin": "NC",
-                    "price": "2213.84",
-                    "isFragile": true,
-                    "timesPurchased": 3082,
-                    "land": "New Caledonia"
-                }
+                "ddat": "product55",
+                "countryOfOrigin": "NC",
+                "price": "2213.84",
+                "isFragile": true,
+                "timesPurchased": 3082,
+                "land": "New Caledonia"
             }
         ],
         "161": [
             {
-                "NZ": {
-                    "ddat": "product97",
-                    "countryOfOrigin": "NZ",
-                    "price": "377.54",
-                    "isFragile": false,
-                    "timesPurchased": 143,
-                    "land": "New Zealand"
-                }
+                "ddat": "product97",
+                "countryOfOrigin": "NZ",
+                "price": "377.54",
+                "isFragile": false,
+                "timesPurchased": 143,
+                "land": "New Zealand"
             }
         ],
         "163": [
             {
-                "NE": {
-                    "ddat": "product63",
-                    "countryOfOrigin": "NE",
-                    "price": "1595.12",
-                    "isFragile": true,
-                    "timesPurchased": 2521,
-                    "land": "Niger"
-                }
+                "ddat": "product63",
+                "countryOfOrigin": "NE",
+                "price": "1595.12",
+                "isFragile": true,
+                "timesPurchased": 2521,
+                "land": "Niger"
             }
         ],
         "164": [
             {
-                "NG": {
-                    "ddat": "product13",
-                    "countryOfOrigin": "NG",
-                    "price": "4547.73",
-                    "isFragile": false,
-                    "timesPurchased": 1755,
-                    "land": "Nigeria"
-                }
+                "ddat": "product13",
+                "countryOfOrigin": "NG",
+                "price": "4547.73",
+                "isFragile": false,
+                "timesPurchased": 1755,
+                "land": "Nigeria"
             }
         ],
         "167": [
             {
-                "MK": {
-                    "ddat": "product56",
-                    "countryOfOrigin": "MK",
-                    "price": "763.88",
-                    "isFragile": true,
-                    "timesPurchased": 2995,
-                    "land": "North Macedonia"
-                }
+                "ddat": "product56",
+                "countryOfOrigin": "MK",
+                "price": "763.88",
+                "isFragile": true,
+                "timesPurchased": 2995,
+                "land": "North Macedonia"
             }
         ],
         "169": [
             {
-                "NO": {
-                    "ddat": "product39",
-                    "countryOfOrigin": "NO",
-                    "price": "7877.22",
-                    "isFragile": false,
-                    "timesPurchased": 1539,
-                    "land": "Norway"
-                }
+                "ddat": "product39",
+                "countryOfOrigin": "NO",
+                "price": "7877.22",
+                "isFragile": false,
+                "timesPurchased": 1539,
+                "land": "Norway"
             }
         ],
         "172": [
             {
-                "PW": {
-                    "ddat": "product67",
-                    "countryOfOrigin": "PW",
-                    "price": "2879.06",
-                    "isFragile": false,
-                    "timesPurchased": 2957,
-                    "land": "Palau"
-                }
+                "ddat": "product67",
+                "countryOfOrigin": "PW",
+                "price": "2879.06",
+                "isFragile": false,
+                "timesPurchased": 2957,
+                "land": "Palau"
             }
         ],
         "176": [
             {
-                "PY": {
-                    "ddat": "product26",
-                    "countryOfOrigin": "PY",
-                    "price": "5556.53",
-                    "isFragile": true,
-                    "timesPurchased": 764,
-                    "land": "Paraguay"
-                }
+                "ddat": "product26",
+                "countryOfOrigin": "PY",
+                "price": "5556.53",
+                "isFragile": true,
+                "timesPurchased": 764,
+                "land": "Paraguay"
             }
         ],
         "177": [
             {
-                "PE": {
-                    "ddat": "product73",
-                    "countryOfOrigin": "PE",
-                    "price": "2182.32",
-                    "isFragile": true,
-                    "timesPurchased": 2719,
-                    "land": "Peru"
-                }
+                "ddat": "product73",
+                "countryOfOrigin": "PE",
+                "price": "2182.32",
+                "isFragile": true,
+                "timesPurchased": 2719,
+                "land": "Peru"
             }
         ],
         "178": [
             {
-                "PH": {
-                    "ddat": "product50",
-                    "countryOfOrigin": "PH",
-                    "price": "5224.09",
-                    "isFragile": true,
-                    "timesPurchased": 402,
-                    "land": "Philippines"
-                }
+                "ddat": "product50",
+                "countryOfOrigin": "PH",
+                "price": "5224.09",
+                "isFragile": true,
+                "timesPurchased": 402,
+                "land": "Philippines"
             }
         ],
         "180": [
             {
-                "PL": {
-                    "ddat": "product14",
-                    "countryOfOrigin": "PL",
-                    "price": 4427,
-                    "isFragile": false,
-                    "timesPurchased": 2553,
-                    "land": "Poland"
-                }
+                "ddat": "product14",
+                "countryOfOrigin": "PL",
+                "price": 4427,
+                "isFragile": false,
+                "timesPurchased": 2553,
+                "land": "Poland"
             }
         ],
         "182": [
             {
-                "PR": {
-                    "ddat": "product4",
-                    "countryOfOrigin": "PR",
-                    "price": "654.3",
-                    "isFragile": false,
-                    "timesPurchased": 383,
-                    "land": "Puerto Rico"
-                }
+                "ddat": "product4",
+                "countryOfOrigin": "PR",
+                "price": "654.3",
+                "isFragile": false,
+                "timesPurchased": 383,
+                "land": "Puerto Rico"
             }
         ],
         "190": [
             {
-                "KN": {
-                    "ddat": "product62",
-                    "countryOfOrigin": "KN",
-                    "price": "6157.72",
-                    "isFragile": false,
-                    "timesPurchased": 2520,
-                    "land": "Saint Kitts and Nevis"
-                }
+                "ddat": "product62",
+                "countryOfOrigin": "KN",
+                "price": "6157.72",
+                "isFragile": false,
+                "timesPurchased": 2520,
+                "land": "Saint Kitts and Nevis"
             }
         ],
         "195": [
             {
-                "WS": {
-                    "ddat": "product95",
-                    "countryOfOrigin": "WS",
-                    "price": "6417.83",
-                    "isFragile": true,
-                    "timesPurchased": 3030,
-                    "land": "Samoa"
-                }
+                "ddat": "product95",
+                "countryOfOrigin": "WS",
+                "price": "6417.83",
+                "isFragile": true,
+                "timesPurchased": 3030,
+                "land": "Samoa"
             }
         ],
         "202": [
             {
-                "SL": {
-                    "ddat": "product96",
-                    "countryOfOrigin": "SL",
-                    "price": "887.25",
-                    "isFragile": true,
-                    "timesPurchased": 654,
-                    "land": "Sierra Leone"
-                }
+                "ddat": "product96",
+                "countryOfOrigin": "SL",
+                "price": "887.25",
+                "isFragile": true,
+                "timesPurchased": 654,
+                "land": "Sierra Leone"
             }
         ],
         "203": [
             {
-                "SG": {
-                    "ddat": "product53",
-                    "countryOfOrigin": "SG",
-                    "price": "1300.81",
-                    "isFragile": false,
-                    "timesPurchased": 273,
-                    "land": "Singapore"
-                }
+                "ddat": "product53",
+                "countryOfOrigin": "SG",
+                "price": "1300.81",
+                "isFragile": false,
+                "timesPurchased": 273,
+                "land": "Singapore"
             }
         ],
         "206": [
             {
-                "SI": {
-                    "ddat": "product51",
-                    "countryOfOrigin": "SI",
-                    "price": "4074.53",
-                    "isFragile": true,
-                    "timesPurchased": 3851,
-                    "land": "Slovenia"
-                }
+                "ddat": "product51",
+                "countryOfOrigin": "SI",
+                "price": "4074.53",
+                "isFragile": true,
+                "timesPurchased": 3851,
+                "land": "Slovenia"
             }
         ],
         "209": [
             {
-                "ZA": {
-                    "ddat": "product21",
-                    "countryOfOrigin": "ZA",
-                    "price": "4674.8",
-                    "isFragile": true,
-                    "timesPurchased": 3399,
-                    "land": "South Africa"
-                }
+                "ddat": "product21",
+                "countryOfOrigin": "ZA",
+                "price": "4674.8",
+                "isFragile": true,
+                "timesPurchased": 3399,
+                "land": "South Africa"
             }
         ],
         "210": [
             {
-                "GS": {
-                    "ddat": "product71",
-                    "countryOfOrigin": "GS",
-                    "price": "3955.68",
-                    "isFragile": true,
-                    "timesPurchased": 1957,
-                    "land": "South Georgia and the South Sandwich Islands"
-                }
+                "ddat": "product71",
+                "countryOfOrigin": "GS",
+                "price": "3955.68",
+                "isFragile": true,
+                "timesPurchased": 1957,
+                "land": "South Georgia and the South Sandwich Islands"
             }
         ],
         "216": [
             {
-                "SJ": {
-                    "ddat": "product18",
-                    "countryOfOrigin": "SJ",
-                    "price": "5034.32",
-                    "isFragile": false,
-                    "timesPurchased": 2558,
-                    "land": "Svalbard and Jan Mayen"
-                }
+                "ddat": "product18",
+                "countryOfOrigin": "SJ",
+                "price": "5034.32",
+                "isFragile": false,
+                "timesPurchased": 2558,
+                "land": "Svalbard and Jan Mayen"
             }
         ],
         "220": [
             {
-                "TW": {
-                    "ddat": "product80",
-                    "countryOfOrigin": "TW",
-                    "price": "6283.63",
-                    "isFragile": false,
-                    "timesPurchased": 1470,
-                    "land": "Taiwan, Province of China"
-                }
+                "ddat": "product80",
+                "countryOfOrigin": "TW",
+                "price": "6283.63",
+                "isFragile": false,
+                "timesPurchased": 1470,
+                "land": "Taiwan, Province of China"
             }
         ],
         "221": [
             {
-                "TJ": {
-                    "ddat": "product82",
-                    "countryOfOrigin": "TJ",
-                    "price": "8851.57",
-                    "isFragile": true,
-                    "timesPurchased": 2994,
-                    "land": "Tajikistan"
-                }
+                "ddat": "product82",
+                "countryOfOrigin": "TJ",
+                "price": "8851.57",
+                "isFragile": true,
+                "timesPurchased": 2994,
+                "land": "Tajikistan"
             }
         ],
         "223": [
             {
-                "TH": {
-                    "ddat": "product22",
-                    "countryOfOrigin": "TH",
-                    "price": "5519.05",
-                    "isFragile": true,
-                    "timesPurchased": 3263,
-                    "land": "Thailand"
-                }
+                "ddat": "product22",
+                "countryOfOrigin": "TH",
+                "price": "5519.05",
+                "isFragile": true,
+                "timesPurchased": 3263,
+                "land": "Thailand"
             }
         ],
         "225": [
             {
-                "TG": {
-                    "ddat": "product75",
-                    "countryOfOrigin": "TG",
-                    "price": "1857.23",
-                    "isFragile": true,
-                    "timesPurchased": 3206,
-                    "land": "Togo"
-                }
+                "ddat": "product75",
+                "countryOfOrigin": "TG",
+                "price": "1857.23",
+                "isFragile": true,
+                "timesPurchased": 3206,
+                "land": "Togo"
             }
         ],
         "230": [
             {
-                "TR": {
-                    "ddat": "product78",
-                    "countryOfOrigin": "TR",
-                    "price": "2261.38",
-                    "isFragile": false,
-                    "timesPurchased": 1830,
-                    "land": "Turkey"
-                }
+                "ddat": "product78",
+                "countryOfOrigin": "TR",
+                "price": "2261.38",
+                "isFragile": false,
+                "timesPurchased": 1830,
+                "land": "Turkey"
             }
         ],
         "232": [
             {
-                "TC": {
-                    "ddat": "product16",
-                    "countryOfOrigin": "TC",
-                    "price": "6113.93",
-                    "isFragile": false,
-                    "timesPurchased": 901,
-                    "land": "Turks and Caicos Islands"
-                }
+                "ddat": "product16",
+                "countryOfOrigin": "TC",
+                "price": "6113.93",
+                "isFragile": false,
+                "timesPurchased": 901,
+                "land": "Turks and Caicos Islands"
             }
         ],
         "238": [
             {
-                "US": {
-                    "ddat": "product29",
-                    "countryOfOrigin": "US",
-                    "price": "4995.84",
-                    "isFragile": false,
-                    "timesPurchased": 1456,
-                    "land": "United States of America"
-                }
+                "ddat": "product29",
+                "countryOfOrigin": "US",
+                "price": "4995.84",
+                "isFragile": false,
+                "timesPurchased": 1456,
+                "land": "United States of America"
             }
         ],
         "240": [
             {
-                "UY": {
-                    "ddat": "product9",
-                    "countryOfOrigin": "UY",
-                    "price": "1619.94",
-                    "isFragile": false,
-                    "timesPurchased": 2291,
-                    "land": "Uruguay"
-                }
+                "ddat": "product9",
+                "countryOfOrigin": "UY",
+                "price": "1619.94",
+                "isFragile": false,
+                "timesPurchased": 2291,
+                "land": "Uruguay"
             }
         ],
         "242": [
             {
-                "VU": {
-                    "ddat": "product25",
-                    "countryOfOrigin": "VU",
-                    "price": "7254.81",
-                    "isFragile": true,
-                    "timesPurchased": 3449,
-                    "land": "Vanuatu"
-                }
+                "ddat": "product25",
+                "countryOfOrigin": "VU",
+                "price": "7254.81",
+                "isFragile": true,
+                "timesPurchased": 3449,
+                "land": "Vanuatu"
             }
         ],
         "243": [
             {
-                "VE": {
-                    "ddat": "product57",
-                    "countryOfOrigin": "VE",
-                    "price": "5945.52",
-                    "isFragile": true,
-                    "timesPurchased": 873,
-                    "land": "Venezuela (Bolivarian Republic of)"
-                }
+                "ddat": "product57",
+                "countryOfOrigin": "VE",
+                "price": "5945.52",
+                "isFragile": true,
+                "timesPurchased": 873,
+                "land": "Venezuela (Bolivarian Republic of)"
             }
         ],
         "244": [
             {
-                "VN": {
-                    "ddat": "product81",
-                    "countryOfOrigin": "VN",
-                    "price": "2648.12",
-                    "isFragile": true,
-                    "timesPurchased": 3291,
-                    "land": "Viet Nam"
-                }
+                "ddat": "product81",
+                "countryOfOrigin": "VN",
+                "price": "2648.12",
+                "isFragile": true,
+                "timesPurchased": 3291,
+                "land": "Viet Nam"
             }
         ],
         "245": [
             {
-                "VG": {
-                    "ddat": "product5",
-                    "countryOfOrigin": "VG",
-                    "price": "3017.94",
-                    "isFragile": false,
-                    "timesPurchased": 2041,
-                    "land": "Virgin Islands (British)"
-                }
+                "ddat": "product5",
+                "countryOfOrigin": "VG",
+                "price": "3017.94",
+                "isFragile": false,
+                "timesPurchased": 2041,
+                "land": "Virgin Islands (British)"
             }
         ]
     }

@@ -1,6 +1,6 @@
 <?php
 
-
+require_once('Flear.php');
 class exercise
 {
 
@@ -12,7 +12,7 @@ class exercise
     /**
      * @var
      */
-    private $jsonObject;
+    private $price_fleats;
 
     /**
      * @var
@@ -26,6 +26,7 @@ class exercise
     }
 
     /**
+     * Funktion für Aufgabe Eins zur Auswertung welcher Name nur in der ersten Liste steht
      * @return array
      */
     public function in_List_One()
@@ -43,6 +44,7 @@ class exercise
     }
 
     /**
+     * Funktion für Aufgabe Eins zur Auswertung welcher Name nur in der zweiten Liste steht
      * @return array
      */
     public function in_List_Two()
@@ -60,6 +62,7 @@ class exercise
     }
 
     /**
+     * Funktion für Aufgabe Eins zur Auswertung welche Namen in beiden Listen stehen
      * @return array
      */
     public function array_intersect(){
@@ -71,6 +74,7 @@ class exercise
     }
 
     /**
+     * Funktion zum Auslesen der CSV Datei ISO-3166-2
      * @return array
      */
     public function csv_read(){
@@ -91,7 +95,9 @@ class exercise
         //$this->result = json_encode($array_out);
         return $array_out;
     }
+
     /**
+     * Funktion zur Auswertung von Preis und Produktdaten
      * @return array
      */
     public function json_evaluate(){
@@ -145,12 +151,9 @@ class exercise
             $e = 0;
             $test[$key] = $value['1'];
             foreach($array as $key1 => $value1){
-
                 if($value1['countryOfOrigin'] === $value['1']){
-                    //$product_to_land_array[$key1] = $value1['countryOfOrigin'];
-                    //$product_to_land_array[$value['1']] = array_push($product_to_land_array, $array[$key1]) ;
                     $product_to_land_array[$key][$e] = [];
-                    $product_to_land_array[$key][$e] += [$value['1'] => $array[$key1]];
+                    $product_to_land_array[$key][$e] += $array[$key1];
                     $e++;
                 }
             }
@@ -160,9 +163,54 @@ class exercise
         $array_out['lowest'] = $lowest_price_array;
         $array_out['times_purchased'] = $times_purchased_array;
         $array_out['product_to_land'] = $product_to_land_array;
-        //print_r($product_to_land_array);
+
         file_put_contents("../text/analyze/sampleProductsData.json", json_encode($array_out, JSON_PRETTY_PRINT));
-        return $product_to_land_array;
+        return $array_out;
     }
 
+    /**
+     * Funktion zur Ausgabe der Flohdaten
+     * @return mixed
+     */
+    public function getOptimalValu(){
+        $flears = json_decode(file_get_contents("../assets/flears.json"), true);
+
+        if (isset($this->content['jsonObject']))
+        {
+            // JSON-String parsen damit auf das Objekt zugegriffen werden kann
+            $jsonObject = json_decode($this->content['jsonObject'], true);
+            // Ausgabe soll als JSON-Objekt erfolgen
+            $responseJson = true;
+        }
+
+        $flears_length = count($flears);
+        $flears_out = [];
+        $flears_out_result = [];
+        $modulo = 1;
+        $val_devision = 0;
+        $intval_devision = 0;
+        $price_out_fleats = [];
+        $this->price = $jsonObject['price'];
+        $count = 0;
+        for($i =0; $i <= $flears_length; $i++){
+            $flears_out[$i] = $flears[$i];
+            $flears_object = new Flear($flears[$i]['name'], $flears[$i]['price'], $flears[$i]['rating']);
+            $price_out_fleats[$i] = $flears_object->getPrice();
+            if($modulo > 0){
+                $modulo = $this->price % $price_out_fleats[$i];
+                $val_devision = $this->price / $price_out_fleats[$i];
+                $intval_devision = intval($val_devision);
+                $this->price -= $price_out_fleats[$i] * $intval_devision;
+                if($intval_devision > 0){
+                    for($e = 1;$e <= $intval_devision; $e++){
+                        $flears_out_result[$count] = ['name' => $flears_object->getName(), 'price' => $flears_object->getPrice(), 'rating' => $flears_object->getRating()];
+                        $count++;
+                    }
+                }
+            }
+        }
+        $esult_out['flears'] = $flears_out;
+        $esult_out['flears_out'] = $flears_out_result;
+        return $esult_out;
+    }
 }

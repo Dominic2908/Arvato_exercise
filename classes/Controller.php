@@ -34,7 +34,9 @@ class Controller
         {
             $method = $_POST['method'];
         }
-
+        /**
+         * Aufruf der Klassenfunktionen der einzelnen Aufgaben
+         */
         switch ($method)
         {
             case "in_List_one":
@@ -85,6 +87,19 @@ class Controller
                 $responseArray = array(
                     "result" => $arrayJason,
                     "position" => "#json_generate"
+                );
+
+                //Das Resultobjekt Kodieren
+                $result = json_encode($responseArray);
+
+                break;
+            case "get_flears":
+
+                $arrayJason = $this->exercise->getOptimalValu();
+
+                $responseArray = array(
+                    "result" => $arrayJason,
+                    "position" => "#array_out_flears"
                 );
 
                 //Das Resultobjekt Kodieren
